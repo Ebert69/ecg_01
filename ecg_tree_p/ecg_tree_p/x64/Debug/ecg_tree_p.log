@@ -1,0 +1,3 @@
+﻿  node.cpp
+C:\Users\PaulPotter\source\repos\ecg_tree_p\ecg_tree_p\node.cpp(25,17): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  ecg_tree_p.vcxproj -> C:\Users\PaulPotter\source\repos\ecg_tree_p\x64\Debug\ecg_tree_p.exe
